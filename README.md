@@ -1,4 +1,4 @@
-## Hi, I'm Pranil Kumar!!!
+## Hi, I'm Pranil Sunil Kumar!!!
 
 Commerce Graduate passionate about Data<br/>
 Pursuing Master’s Degree in Computer Science from Woolf University<br/>
