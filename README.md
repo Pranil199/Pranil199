@@ -1,7 +1,7 @@
 ## Hi, I'm Pranil Sunil Kumar!!!
 
 Commerce Graduate passionate about Data<br/>
-Pursuing Master’s Degree in Computer Science from Woolf University<br/>
+Pursuing Master’s Degree in Computer Science from SCALER X Woolf University<br/>
 Aspiring Data Professional<br/>
 Currently learning how to write code to get things done<br/>
 I use data to get to solution or solve problems<br/>
