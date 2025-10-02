@@ -6,7 +6,7 @@ Aspiring Data Professional<br/>
 Currently learning how to write code to get things done<br/>
 I use data to get to solution and solve problems<br/>
 AI & ML Enthusiast<br/>
-
+India<br/>
 
 
 ## 🌐 Socials:
