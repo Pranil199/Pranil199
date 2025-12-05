@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Pranil Sunil Kumar!!!<br>Commerce Graduate passionate about finding trends and solutions in Data and Products<br>Pursuing Master’s Degree in Computer Science(AI & ML) from SCALER x Woolf University<br>Aspiring Data Professional<br>Currently learning how to write code to get things done<br>I use data to get to solution and solve problems<br>AI & ML Enthusiast<br>SQL | Python | DSA | Machine Learning | Deep Learning | AWS | GCP | MS Fabric | PowerBi | Tableau | Spark | Airflow | Spark | Databricks | Figma<br>India
+## Hi, I'm Pranil Sunil Kumar!!!<br>Commerce Graduate passionate about finding trends and solutions in Data and Products<br>Pursuing Master’s Degree in Computer Science(AI & ML) from SCALER x Woolf University<br>Aspiring Data Professional<br>Currently learning how to write code to get things done<br>I use data to get to solution and solve problems<br>AI & ML Enthusiast<br>SQL | Python | DSA | Machine Learning | Deep Learning | AWS | GCP | MS Fabric | PowerBi | Tableau | Spark | Airflow | Spark | Databricks | Figma<br>Get in touch with me if you are interested in sharing Knowledge<br>India
 
 
 ## 🌐 Socials:
